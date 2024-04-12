@@ -1,0 +1,16 @@
+Header
+    lOGO
+    wEBSITE LINK
+    hEADER iMage
+
+main
+    blog heading
+    blog iMage
+    content
+        para
+        1
+        para
+        list
+        ending
+        para
+footer
